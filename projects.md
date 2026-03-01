@@ -49,10 +49,10 @@
 
 | Time (UTC) | Transaction ID | Severity | Threat Prob | Amount (USD) | Blockchain | Type |
 |---|---|:---:|:---:|---:|---|---|
-| 2026-02-24 03:07:56 | TXN-325462 | 🔴 CRITICAL | 98.8% | $564,546.88 | monero | exchange |
-| 2026-02-24 03:07:56 | TXN-184729 | 🔴 CRITICAL | 99.0% | $88,033.85 | bitcoin | transfer |
-| 2026-02-24 03:07:57 | TXN-978652 | 🔴 CRITICAL | 100.0% | $53,109.25 | ethereum | withdrawal |
-| 2026-02-24 03:07:57 | TXN-523531 | 🔴 CRITICAL | 96.8% | $364,669.35 | monero | purchase |
+| 2026-02-24 03:07:56 | TXN-325462 | 🔴 CRITICAL | 98.8% | $564,546.88 | bitcoin | exchange |
+| 2026-02-24 03:07:56 | TXN-184729 | 🔴 CRITICAL | 99.0% | $88,033.85 | ethereum | exchange |
+| 2026-02-24 03:07:57 | TXN-978652 | 🔴 CRITICAL | 100.0% | $53,109.25 | bitcoin | withdrawal |
+| 2026-02-24 03:07:57 | TXN-523531 | 🔴 CRITICAL | 96.8% | $364,669.35 | bitcoin | transfer |
 | 2026-02-24 03:07:57 | TXN-982396 | 🔴 CRITICAL | 100.0% | $18,882.74 | litecoin | transfer |
 | 2026-02-24 03:07:57 | TXN-797245 | 🔴 CRITICAL | 98.8% | $424,050.99 | bitcoin | withdrawal |
 | 2026-02-24 02:57:13 | TXN-102426 | 🟠 HIGH | 51.0% | $43,103.84 | bitcoin | purchase |
