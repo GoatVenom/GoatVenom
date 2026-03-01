@@ -51,7 +51,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Criminal network and cryptocurrency transaction analysis
 - Intelligence dashboard design and automated reporting
 
-[View Full Details](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
+[View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
 
 ---
 
@@ -70,7 +70,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Real-time alerting and incident triage
 - Adversarial thinking and attacker engagement techniques
 
-[View Full Details](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
+[View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
 
 ---
 
@@ -89,7 +89,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Binary compilation and executable engineering
 - Understanding of OS process and shell session behavior
 
-[View Full Details](https://goatvenom.github.io/GoatVenom/projects#native5)
+[View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#native5)
 
 ---
 
@@ -108,25 +108,4 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Data visualization and insight communication
 - Translating technical outputs into strategic security recommendations
 
-[View Full Details](https://goatvenom.github.io/GoatVenom/projects#data-driven-security-insights)
-
----
-
-## Lessons Learned
-
-### [Dark Web Intelligence Platform](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform)
-> Building a real-time threat detection platform reinforced that intelligence systems must balance speed, accuracy, and explainability. Operationalizing ML for cryptocurrency crime analysis required aligning model outputs to investigator workflows — not just optimizing for performance metrics.
-
-### [ShadowSentinel](https://github.com/GoatVenom/ShadowSentinel)
-> Designing a honeypot system taught me to think like an attacker — understanding what looks convincing, what triggers interaction, and how to capture meaningful forensic evidence without tipping off the adversary. Real-time alerting and deception engineering are as much about psychology as they are about technology.
-
-### [Native5](https://github.com/GoatVenom/Native5)
-> Re-implementing native OS commands at the API level exposed the gap between what the shell presents and what the OS actually does. This project deepened my understanding of Windows internals, process isolation, and the importance of low-level systems knowledge for forensic and security work.
-
-### [Data-Driven Security Insights](https://github.com/GoatVenom/Data-Driven-Security-Insights)
-
-**Strategic Value of Data in Security Decision-Making**
-> Predictive models are only as valuable as the decisions they inform. Transforming raw breach data into actionable, prioritized recommendations requires understanding how security leaders operationalize insights — aligning outputs to risk prioritization, resource allocation, and strategic planning.
-
-**Balancing Model Precision and Operational Relevance**
-> Accuracy metrics alone don't define success. Model performance must be evaluated within the context of noise, evolving threat patterns, and operational constraints — balancing predictive performance with maintainability, interpretability, and continuous validation.
+[View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#data-driven-security-insights)
