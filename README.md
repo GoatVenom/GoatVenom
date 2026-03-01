@@ -2,7 +2,7 @@
 
 Cybersecurity Engineer | Financial Crime Technical Investigations | Data Privacy Advocate
 
-Working across the full threat lifecycle — from intelligence collection to forensic 
+Working across the full threat lifecycle — from intelligence collection to computer forensic 
 investigation, incident containment, and regulatory compliance.
 
 | Domain                        | Focus Areas                                           |
