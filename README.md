@@ -51,6 +51,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 **Technologies Used**
 `C++` `Win32 API` `CURL` `Discord Webhooks` `Windows 10/11`
+
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
 ---
 ### Native5
@@ -71,4 +72,5 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 **Technologies Used**
 `Python` `pandas` `scikit-learn` `matplotlib` `seaborn` `Jupyter`
+
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#data-driven-security-insights)
