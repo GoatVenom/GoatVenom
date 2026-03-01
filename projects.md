@@ -30,7 +30,18 @@
 - Intelligence dashboard design and automated reporting
 
 **Lessons Learned**
-> Building a real-time threat detection platform reinforced that intelligence systems must balance speed, accuracy, and explainability. Operationalizing ML for cryptocurrency crime analysis required aligning model outputs to investigator workflows — not just optimizing for performance metrics.
+
+**Building and Leading Intelligence Programs**
+> Effective threat intelligence programs require defined collection requirements and structured analytic workflows that connect analysts to decision-makers — not just technical capability.
+
+**Operationalizing Intelligence at Scale**
+> Designing a real-time pipeline reinforced that CTI infrastructure must sustain continuous collection and analysis to support ongoing threat monitoring, not just one-time assessments.
+
+**Communicating Intelligence to Non-Technical Stakeholders**
+> Producing both executive summaries and technical reports highlighted that CTI managers must translate threat actor TTPs and risk findings into clear narratives that drive organizational action.
+
+**Integrating Machine Learning into Threat Analysis Workflows**
+> Applying ML classification to criminal network data demonstrated that effective CTI management means knowing when models augment analyst judgment — and when human expertise must take precedence.
 
 ---
 
