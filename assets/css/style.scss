@@ -4,6 +4,113 @@
 @import "{{ site.theme }}";
 
 // ============================================================
+// LAYOUT — KILL WHITE BORDERS, FULL WIDTH
+// ============================================================
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  background-color: #0d1117 !important;
+}
+
+// Slate wraps everything in a #wrapper or .wrapper div
+// Override it to be full-width with no white gutters
+#wrapper,
+.wrapper,
+div.wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: #0d1117 !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+// The inner content layout uses a two-column flex/float layout
+// header (sidebar) + section (main content)
+// Override widths and backgrounds
+#header-wrapper,
+header[role="banner"],
+header {
+  background: #0d1117 !important;
+  border-right: 1px solid #21262d !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  width: 240px !important;
+  min-height: 100vh !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  padding: 36px 24px 24px 24px !important;
+  box-sizing: border-box !important;
+
+  h1 {
+    font-size: 1.05em !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.04em !important;
+    text-transform: uppercase !important;
+    color: #e6edf3 !important;
+    margin: 0 0 6px 0 !important;
+    line-height: 1.4 !important;
+  }
+
+  p {
+    font-size: 0.75em !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    color: #8b949e !important;
+    margin: 0 0 20px 0 !important;
+  }
+
+  a {
+    display: block !important;
+    color: #58a6ff !important;
+    font-size: 0.78em !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    margin-bottom: 6px !important;
+    text-decoration: none !important;
+
+    &:hover {
+      color: #79b8ff !important;
+      text-decoration: underline !important;
+    }
+  }
+}
+
+// Main content section — offset to the right of the fixed sidebar
+#content-wrapper,
+section[role="main"],
+section {
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
+  margin-left: 240px !important;
+  max-width: none !important;
+  width: auto !important;
+  min-height: 100vh !important;
+  padding: 48px 64px 64px 56px !important;
+  box-sizing: border-box !important;
+  border: none !important;
+  box-shadow: none !important;
+  float: none !important;
+}
+
+// Kill any remaining white backgrounds on structural elements
+#downloads,
+#main_content_wrap,
+#main_content,
+.inner {
+  background-color: #0d1117 !important;
+  box-shadow: none !important;
+  border: none !important;
+  max-width: none !important;
+  width: auto !important;
+}
+
+// ============================================================
 // TYPOGRAPHY & BASE
 // ============================================================
 
@@ -32,59 +139,6 @@ p {
 strong {
   color: #e6edf3;
   font-weight: 600;
-}
-
-// ============================================================
-// HEADER
-// ============================================================
-
-header {
-  background: #0d1117;
-  border-bottom: 1px solid #21262d;
-  padding: 32px 28px 24px 28px;
-
-  h1 {
-    font-size: 1.6em;
-    font-weight: 700;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: #e6edf3;
-    margin: 0 0 6px 0;
-  }
-
-  p {
-    font-size: 0.82em;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: #8b949e;
-    margin: 0;
-    font-weight: 400;
-  }
-
-  a {
-    color: #58a6ff;
-    font-size: 0.8em;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    font-weight: 500;
-  }
-}
-
-// ============================================================
-// CONTENT AREA
-// ============================================================
-
-#content-wrapper {
-  background-color: #0d1117;
-}
-
-section {
-  background-color: #0d1117;
-  color: #c9d1d9;
-  max-width: 860px;
-  padding: 36px 32px;
-  border: none;
-  box-shadow: none;
 }
 
 // ============================================================
@@ -145,7 +199,6 @@ table {
 thead tr {
   border-bottom: 1px solid #30363d;
 }
-
 th {
   text-align: left;
   padding: 9px 14px;
@@ -193,7 +246,7 @@ blockquote {
 }
 
 // ============================================================
-// INLINE CODE (used as tech badges)
+// INLINE CODE (tech badges)
 // ============================================================
 
 code {
@@ -244,67 +297,6 @@ ul, ol {
 }
 
 // ============================================================
-// PROJECT CARD OVERRIDES (for HTML cards in projects.md)
-// ============================================================
-
-.project-card {
-  border: 1px solid #21262d !important;
-  background-color: #0d1117 !important;
-  border-radius: 8px !important;
-  padding: 28px 32px !important;
-  margin-bottom: 28px !important;
-
-  h3 {
-    color: #58a6ff !important;
-    font-size: 1.2em !important;
-    margin-top: 0 !important;
-    letter-spacing: 0.01em !important;
-  }
-
-  .category-badge {
-    background-color: #161b22 !important;
-    color: #8b949e !important;
-    border: 1px solid #30363d !important;
-    font-size: 0.7em !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    padding: 3px 10px !important;
-    border-radius: 4px !important;
-    font-weight: 600 !important;
-  }
-
-  .section-title {
-    font-size: 0.72em !important;
-    letter-spacing: 0.14em !important;
-    text-transform: uppercase !important;
-    color: #8b949e !important;
-    font-weight: 700 !important;
-    margin-top: 20px !important;
-    margin-bottom: 8px !important;
-    border-bottom: 1px solid #21262d !important;
-    padding-bottom: 4px !important;
-  }
-
-  .links a {
-    background-color: #161b22 !important;
-    border: 1px solid #30363d !important;
-    color: #c9d1d9 !important;
-    padding: 6px 16px !important;
-    border-radius: 5px !important;
-    font-size: 0.8em !important;
-    letter-spacing: 0.04em !important;
-    font-weight: 500 !important;
-    text-decoration: none !important;
-
-    &:hover {
-      background-color: #21262d !important;
-      border-color: #58a6ff !important;
-      color: #58a6ff !important;
-    }
-  }
-}
-
-// ============================================================
 // FOOTER
 // ============================================================
 
@@ -315,4 +307,5 @@ footer {
   font-size: 0.78em;
   letter-spacing: 0.04em;
   padding: 20px 28px;
+  margin-left: 240px;
 }
