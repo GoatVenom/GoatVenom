@@ -50,13 +50,7 @@
 | Time (UTC) | Transaction ID | Severity | Threat Prob | Amount (USD) | Blockchain | Type |
 |---|---|:---:|:---:|---:|---|---|
 | 2026-02-24 03:07:56 | TXN-325462 | 🔴 CRITICAL | 98.8% | $564,546.88 | bitcoin | exchange |
-| 2026-02-24 03:07:56 | TXN-184729 | 🔴 CRITICAL | 99.0% | $88,033.85 | ethereum | exchange |
 | 2026-02-24 03:07:57 | TXN-978652 | 🔴 CRITICAL | 100.0% | $53,109.25 | bitcoin | withdrawal |
-| 2026-02-24 03:07:57 | TXN-523531 | 🔴 CRITICAL | 96.8% | $364,669.35 | bitcoin | transfer |
-| 2026-02-24 03:07:57 | TXN-982396 | 🔴 CRITICAL | 100.0% | $18,882.74 | litecoin | transfer |
-| 2026-02-24 03:07:57 | TXN-797245 | 🔴 CRITICAL | 98.8% | $424,050.99 | bitcoin | withdrawal |
-| 2026-02-24 02:57:13 | TXN-102426 | 🟠 HIGH | 51.0% | $43,103.84 | bitcoin | purchase |
-| 2026-02-24 02:57:10 | TXN-311695 | 🟠 HIGH | 50.0% | $31,534.77 | bitcoin | transfer |
 | 2026-02-24 02:56:51 | TXN-681920 | 🟠 HIGH | 59.0% | $51,947.42 | litecoin | transfer |
 | 2026-02-24 02:57:04 | TXN-623808 | 🟠 HIGH | 50.0% | $47,502.44 | ethereum | exchange |
 
@@ -104,7 +98,7 @@
 
 ---
 
-### Native5
+### Native 5
 
 > Custom Windows tools built from scratch to emulate native cd and dir command behavior using low-level Win32 API calls.
 
