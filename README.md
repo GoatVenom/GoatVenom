@@ -1,4 +1,4 @@
-## 🧠 GoatVenomCan
+## Hi Im Kyle! 
 
 Cybersecurity Engineer | Financial Crime Technical Investigations | Data Privacy Advocate
 
