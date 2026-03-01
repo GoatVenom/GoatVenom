@@ -20,7 +20,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Category        | Tools & Technologies                                              |
 |-----------------|-------------------------------------------------------------------|
@@ -32,54 +32,54 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 ---
 
-## 📂 Projects
+## Projects
 
 ---
 
-###  Dark Web Intelligence Platform
+### Dark Web Intelligence Platform
 > A production-grade intelligence platform for real-time cryptocurrency threat detection and criminal network analysis.
 
-🔗 [View Repository](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform) | [📄 Linked Documentation](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform#readme)
+[View Repository](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform) | [Linked Documentation](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform#readme)
 
-** Technologies Used**
+**Technologies Used**
 
 `Python` `Random Forest` `scikit-learn` `Flask` `pandas` `Discord Webhooks`
 
-** Skills Obtained**
+**Skills Obtained**
 - Real-time threat detection pipeline engineering (20+ tx/sec)
 - ML classification and explainable AI (probability scoring)
 - Criminal network and cryptocurrency transaction analysis
 - Intelligence dashboard design and automated reporting
 
-[View Full Details →](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
+[View Full Details](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
 
 ---
 
-###  ShadowSentinel
+### ShadowSentinel
 > A high-interaction Windows honeypot tool designed to deceive, trap, and monitor attackers using decoy files, fake admin consoles, and real-time alerts.
 
-🔗 [View Repository](https://github.com/GoatVenom/ShadowSentinel) | [📄 Linked Documentation](https://github.com/GoatVenom/ShadowSentinel#readme)
+[View Repository](https://github.com/GoatVenom/ShadowSentinel) | [Linked Documentation](https://github.com/GoatVenom/ShadowSentinel#readme)
 
 **Technologies Used**
 
 `C++` `Win32 API` `CURL` `Discord Webhooks` `Windows 10/11`
 
-** Skills Obtained**
+**Skills Obtained**
 - Honeypot architecture and deception technology design
 - File system monitoring and attacker behavior logging
 - Real-time alerting and incident triage
 - Adversarial thinking and attacker engagement techniques
 
-[View Full Details →](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
+[View Full Details](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
 
 ---
 
-###  Native5
+### Native5
 > Custom Windows tools built from scratch to emulate native cd and dir command behavior using low-level Win32 API calls.
 
-🔗 [View Repository](https://github.com/GoatVenom/Native5) | [📄 Linked Documentation](https://github.com/GoatVenom/Native5#readme)
+[View Repository](https://github.com/GoatVenom/Native5) | [Linked Documentation](https://github.com/GoatVenom/Native5#readme)
 
-** Technologies Used**
+**Technologies Used**
 
 `C++` `Win32 API` `Microsoft Visual Studio` `Windows`
 
@@ -89,16 +89,16 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Binary compilation and executable engineering
 - Understanding of OS process and shell session behavior
 
-[View Full Details →](https://goatvenom.github.io/GoatVenom/projects#native5)
+[View Full Details](https://goatvenom.github.io/GoatVenom/projects#native5)
 
 ---
 
-###  Data-Driven Security Insights
+### Data-Driven Security Insights
 > A machine learning project analyzing and predicting the nature and impact of cybersecurity breaches.
 
-🔗 [View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [📄 Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
+[View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
 
-** Technologies Used**
+**Technologies Used**
 
 `Python` `pandas` `scikit-learn` `matplotlib` `seaborn` `Jupyter`
 
@@ -108,13 +108,13 @@ Working across the full threat lifecycle — from intelligence collection to com
 - Data visualization and insight communication
 - Translating technical outputs into strategic security recommendations
 
-[View Full Details →](https://goatvenom.github.io/GoatVenom/projects#data-driven-security-insights)
+[View Full Details](https://goatvenom.github.io/GoatVenom/projects#data-driven-security-insights)
 
 ---
 
-##  Lessons Learned
+## Lessons Learned
 
-###  [Dark Web Intelligence Platform](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform)
+### [Dark Web Intelligence Platform](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform)
 > Building a real-time threat detection platform reinforced that intelligence systems must balance speed, accuracy, and explainability. Operationalizing ML for cryptocurrency crime analysis required aligning model outputs to investigator workflows — not just optimizing for performance metrics.
 
 ### [ShadowSentinel](https://github.com/GoatVenom/ShadowSentinel)
@@ -123,7 +123,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 ### [Native5](https://github.com/GoatVenom/Native5)
 > Re-implementing native OS commands at the API level exposed the gap between what the shell presents and what the OS actually does. This project deepened my understanding of Windows internals, process isolation, and the importance of low-level systems knowledge for forensic and security work.
 
-###  [Data-Driven Security Insights](https://github.com/GoatVenom/Data-Driven-Security-Insights)
+### [Data-Driven Security Insights](https://github.com/GoatVenom/Data-Driven-Security-Insights)
 
 **Strategic Value of Data in Security Decision-Making**
 > Predictive models are only as valuable as the decisions they inform. Transforming raw breach data into actionable, prioritized recommendations requires understanding how security leaders operationalize insights — aligning outputs to risk prioritization, resource allocation, and strategic planning.
