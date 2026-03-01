@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🧠 GoatVenomCan
 
-<!--
-**GoatVenom/GoatVenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineer | Financial Crime Technical Investigations | Data Privacy Advocate
 
-Here are some ideas to get you started:
+Working across the full threat lifecycle — from intelligence collection to forensic 
+investigation, incident containment, and regulatory compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain                        | Focus Areas                                           |
+|-------------------------------|-------------------------------------------------------|
+| Threat Intelligence        | OSINT, IOC enrichment, MITRE ATT&CK mapping           |
+| Computer Forensics         | Disk/memory forensics, malware triage, artifact analysis |
+| Data Privacy Engineering   | PII detection, data minimization, privacy architecture |
+|  AML / Financial Risk       | Transaction monitoring, typology modeling, SAR analysis |
+| Incident Response          | DFIR, containment playbooks, post-incident reporting  |
