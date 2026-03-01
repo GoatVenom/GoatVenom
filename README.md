@@ -33,7 +33,8 @@ Working across the full threat lifecycle — from intelligence collection to com
 ---
 ## Projects
 ---
-### Dark Web Intelligence Platform
+### Dark Web Intelligence Platform - Cyber Threat Intelligence (CTI) Platform
+
 > A production-grade intelligence platform for real-time cryptocurrency threat detection and criminal network analysis.
 
 [View Repository](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform) | [Linked Documentation](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform#readme)
@@ -44,7 +45,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
 ---
 
-### ShadowSentinel
+### ShadowSentinel -  Red Team / Adversary Simulation Tool
 > A high-interaction Windows honeypot tool designed to deceive, trap, and monitor attackers using decoy files, fake admin consoles, and real-time alerts.
 
 [View Repository](https://github.com/GoatVenom/ShadowSentinel) | [Linked Documentation](https://github.com/GoatVenom/ShadowSentinel#readme)
@@ -55,7 +56,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
 
 ---
-### Native5
+### Native5 - Offensive Reconnaissance tool
 > Custom Windows tools built from scratch to emulate native cd and dir command behavior using low-level Win32 API calls.
 
 [View Repository](https://github.com/GoatVenom/Native5) | [Linked Documentation](https://github.com/GoatVenom/Native5#readme)
@@ -67,7 +68,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#native5)
 
 ---
-### Data-Driven Security Insights
+### Data-Driven Security Insights -  Threat Intelligence / Security Analytics Tool
 > A machine learning project analyzing and predicting the nature and impact of cybersecurity breaches.
 
 [View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
