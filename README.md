@@ -4,6 +4,12 @@ Cybersecurity Engineer | Financial Crime Technical Investigations | Data Privacy
 
 Working across the full threat lifecycle — from intelligence collection to computer forensic investigation, incident containment, and regulatory compliance.
 
+---
+
+[Home](https://goatvenom.github.io/GoatVenom/) | [Projects](https://goatvenom.github.io/GoatVenom/projects)
+
+---
+
 | Domain                   | Focus Areas                                                |
 |--------------------------|------------------------------------------------------------|
 | Threat Intelligence      | OSINT, IOC enrichment, MITRE ATT&CK mapping                |
@@ -36,10 +42,13 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 `Python` `pandas` `scikit-learn` `matplotlib` `seaborn` `Jupyter`
 
-**🎯 What It Does**
-- Classifies breach methods (Hacking, Phishing, Lost Device)
-- Predicts breach impact using regression models (records affected)
-- Visualizes breach trends, frequency, and impact types over time
+**🎯 Skills Obtained**
+- Machine learning model development (classification & regression)
+- Security data analysis and breach pattern recognition
+- Data visualization and insight communication
+- Translating technical outputs into strategic security recommendations
+
+[View Full Details →](https://goatvenom.github.io/GoatVenom/projects) | [📄 Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
 
 ---
 
