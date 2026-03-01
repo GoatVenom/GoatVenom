@@ -2,44 +2,45 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 ---
-###  Dark Web Intelligence Platform
+
+### Dark Web Intelligence Platform
 
 > A production-grade real-time intelligence platform for cryptocurrency threat detection, criminal network analysis, and automated security reporting.
 
-🔗 [View Repository](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform) | [📄 Linked Documentation](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform#readme)
+[View Repository](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform) | [Linked Documentation](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform#readme)
 
-**💻 Technologies Used**
+**Technologies Used**
 
 `Python` `Random Forest` `scikit-learn` `Flask` `pandas` `Discord Webhooks`
 
-** What It Does**
-- Real-time cryptocurrency threat detection (20+ transactions/second, <100ms latency)
+**What It Does**
+- Real-time cryptocurrency threat detection (20+ transactions/second, less than 100ms latency)
 - ML classification with Random Forest (85%+ accuracy)
 - Criminal network analysis and IOC enrichment
 - Live intelligence dashboards with automated alerting
 - Automated intelligence reporting (5 report types)
 
-** Skills Obtained**
+**Skills Obtained**
 - Real-time threat detection pipeline engineering
 - ML classification and explainable AI (probability scoring)
 - Criminal network and cryptocurrency transaction analysis
 - Intelligence dashboard design and automated reporting
 
-**📖 Lessons Learned**
+**Lessons Learned**
 > Building a real-time threat detection platform reinforced that intelligence systems must balance speed, accuracy, and explainability. Operationalizing ML for cryptocurrency crime analysis required aligning model outputs to investigator workflows — not just optimizing for performance metrics.
 
 ---
 
-###  ShadowSentinel
+### ShadowSentinel
 
 > A high-interaction Windows honeypot tool designed to deceive, trap, and monitor attackers using decoy files, fake admin consoles, and real-time Discord alerts.
 
-🔗 [View Repository](https://github.com/GoatVenom/ShadowSentinel) | [📄 Linked Documentation](https://github.com/GoatVenom/ShadowSentinel#readme)
+[View Repository](https://github.com/GoatVenom/ShadowSentinel) | [Linked Documentation](https://github.com/GoatVenom/ShadowSentinel#readme)
 
-** Technologies Used**
+**Technologies Used**
 
 `C++` `Win32 API` `CURL` `Discord Webhooks` `Windows 10/11`
 
@@ -61,11 +62,11 @@
 
 ---
 
-###  Native5
+### Native5
 
 > Custom Windows tools built from scratch to emulate native cd and dir command behavior using low-level Win32 API calls.
 
-🔗 [View Repository](https://github.com/GoatVenom/Native5) | [📄 Linked Documentation](https://github.com/GoatVenom/Native5#readme)
+[View Repository](https://github.com/GoatVenom/Native5) | [Linked Documentation](https://github.com/GoatVenom/Native5#readme)
 
 **Technologies Used**
 
@@ -77,7 +78,7 @@
 - Uses Win32 APIs: SetCurrentDirectoryW, FindFirstFileW, GetFileAttributesW, LookupAccountSidW
 - Retrieves file ownership, attributes, size, and timestamps natively
 
-** Skills Obtained**
+**Skills Obtained**
 - Low-level Windows systems programming
 - Win32 API integration (file system, security, directory traversal)
 - Binary compilation and executable engineering
@@ -88,17 +89,17 @@
 
 ---
 
-###  Data-Driven Security Insights
+### Data-Driven Security Insights
 
 > A machine learning project analyzing and predicting the nature and impact of cybersecurity breaches.
 
-🔗 [View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [📄 Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
+[View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
 
-** Technologies Used**
+**Technologies Used**
 
 `Python` `pandas` `scikit-learn` `matplotlib` `seaborn` `Jupyter`
 
-** What It Does**
+**What It Does**
 - Classifies breach methods (Hacking, Phishing, Lost Device)
 - Predicts breach impact using regression models (records affected)
 - Visualizes breach trends, frequency, and impact types over time
@@ -109,7 +110,7 @@
 - Data visualization and insight communication
 - Translating technical outputs into strategic security recommendations
 
-** Lessons Learned**
+**Lessons Learned**
 
 **Strategic Value of Data in Security Decision-Making**
 > Predictive models are only as valuable as the decisions they inform. Transforming raw breach data into actionable, prioritized recommendations requires understanding how security leaders operationalize insights — aligning outputs to risk prioritization, resource allocation, and strategic planning.
