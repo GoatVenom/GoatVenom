@@ -62,6 +62,18 @@
 
 > ⚡ Alerts generated at sub-100ms latency · [View Full Alert Log](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/alerts/real_time_alerts.jsonl)
 
+**📄 Generated Intelligence Reports**
+
+> The platform automatically produces 5 structured report types covering threat actors, transactions, network nodes, and marketplace activity.
+
+| Report | Description |
+|---|---|
+| [📋 Comprehensive Threat Assessment](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/reports/intelligence_report.txt) | Full executive + technical report: 1,000 transactions, 100 threat actors, 5 marketplaces analyzed |
+| [💸 High-Risk Transactions](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/reports/high_risk_transactions.csv) | 155 flagged transactions totalling 91.55 BTC across Bitcoin, Monero, and Ethereum |
+| [🎯 Critical Threat Actors](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/reports/critical_threat_actors.csv) | 13 critical-level actors including ransomware groups and hacker collectives |
+| [🕸️ High-Risk Network Nodes](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/reports/high_risk_network_nodes.csv) | Flagged mixing services, exchanges, and wallets with elevated risk scores |
+| [🛒 High-Risk Marketplace Listings](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/output/reports/high_risk_marketplace_listings.csv) | Active dark web listings for weapons, hacking tools, forged documents, and stolen data |
+
 ---
 
 ### ShadowSentinel
