@@ -5,7 +5,7 @@
 ## 📂 Projects
 
 ---
-### 🕵️ Dark Web Intelligence Platform
+###  Dark Web Intelligence Platform
 
 > A production-grade real-time intelligence platform for cryptocurrency threat detection, criminal network analysis, and automated security reporting.
 
