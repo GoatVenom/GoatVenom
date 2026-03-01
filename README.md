@@ -53,6 +53,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 `C++` `Win32 API` `CURL` `Discord Webhooks` `Windows 10/11`
 
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#shadowsentinel)
+
 ---
 ### Native5
 > Custom Windows tools built from scratch to emulate native cd and dir command behavior using low-level Win32 API calls.
@@ -64,6 +65,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 `C++` `Win32 API` `Microsoft Visual Studio` `Windows`
 
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#native5)
+
 ---
 ### Data-Driven Security Insights
 > A machine learning project analyzing and predicting the nature and impact of cybersecurity breaches.
