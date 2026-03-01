@@ -43,6 +43,14 @@
 **Integrating Machine Learning into Threat Analysis Workflows**
 > Applying ML classification to criminal network data demonstrated that effective CTI management means knowing when models augment analyst judgment — and when human expertise must take precedence.
 
+**📊 Visualizations**
+
+| Breaches Per Year | Top Breaches | Most Common Impact Types |
+|:-:|:-:|:-:|
+| [![Breaches Per Year](https://raw.githubusercontent.com/GoatVenom/Dark-Web-Intelligence-Platform/master/Breaches%20Per%20year%20.png)](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/Breaches%20Per%20year%20.png) | [![Top Breaches](https://raw.githubusercontent.com/GoatVenom/Dark-Web-Intelligence-Platform/master/Top%20Breaches.png)](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/Top%20Breaches.png) | [![Most Common Impact Types](https://raw.githubusercontent.com/GoatVenom/Dark-Web-Intelligence-Platform/master/Most%20Common%20Impact%20Types.png)](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/Most%20Common%20Impact%20Types.png) |
+
+[View Full Visualization Notebook →](https://github.com/GoatVenom/Dark-Web-Intelligence-Platform/blob/master/04_visualization.ipynb)
+
 ---
 
 ### ShadowSentinel
