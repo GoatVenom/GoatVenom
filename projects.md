@@ -85,7 +85,6 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Random%20Forest-4CAF50?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord%20Webhooks-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   </div>
 
   <div class="section-title">What It Does</div>
