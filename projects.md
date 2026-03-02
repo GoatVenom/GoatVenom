@@ -222,7 +222,7 @@
 <div class="project-card">
   <div class="category-badge">📊 Security Research & Analytics</div>
   <h3>Data-Driven Security Insights</h3>
-  <div class="description">A machine learning research project analyzing cybersecurity breach data to identify patterns of attack behavior and impact, translating complex datasets into actionable, risk-prioritized security insights..</div>
+  <div class="description">A machine learning research project analyzing cybersecurity breach data to identify patterns of attack behavior and impact, translating complex datasets into actionable, risk-prioritized security insights.</div>
 
   <div class="badges">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
