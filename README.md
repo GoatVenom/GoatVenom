@@ -30,9 +30,9 @@ Working across the full threat lifecycle — from intelligence collection to com
 | Systems         | Win32 API, Windows Internals, Discord Webhooks                    |
 | Compliance      | AML, SAR Analysis, Data Privacy, NIST                             |
 
----
+--
 ## Projects
----
+-
 ### Dark Web Intelligence Platform - Cyber Threat Intelligence (CTI) Platform
 
 > A production-grade intelligence platform for real-time cryptocurrency threat detection and criminal network analysis.
