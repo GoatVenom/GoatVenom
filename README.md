@@ -45,7 +45,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
 
 ---
-### incident-intelligence-decision-support-playbook
+### Incident-Intelligence-decision-support-playbook 
 > Executive decision support playbook demonstrating intelligence-led incident response, cyber risk assessment, and stakeholder communication.
 
 [View Repository](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook)| [Lessons Learned](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook/blob/main/lessons-learned.md)
