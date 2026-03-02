@@ -48,10 +48,9 @@ Working across the full threat lifecycle — from intelligence collection to com
 ### incident-intelligence-decision-support-playbook
 > Executive decision support playbook demonstrating intelligence-led incident response, cyber risk assessment, and stakeholder communication.
 
-[View Repository](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook)
+[View Repository](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook)| [Lessons Learned](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook/blob/main/lessons-learned.md)
 
 ---
-
 ### ShadowSentinel -  Red Team / Adversary Simulation Tool
 > A high-interaction Windows honeypot tool designed to deceive, trap, and monitor attackers using decoy files, fake admin consoles, and real-time alerts.
 
