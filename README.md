@@ -75,7 +75,7 @@ Working across the full threat lifecycle — from intelligence collection to com
 
 ---
 ### Data-Driven Security Insights -  Threat Intelligence / Security Analytics Tool
-> A machine learning project analyzing and predicting the nature and impact of cybersecurity breaches.
+> A machine learning research project analyzing cybersecurity breach data to identify patterns of attack behavior and impact, translating complex datasets into actionable, risk-prioritized security insights.
 
 [View Repository](https://github.com/GoatVenom/Data-Driven-Security-Insights) | [Linked Documentation](https://github.com/GoatVenom/Data-Driven-Security-Insights#readme)
 
