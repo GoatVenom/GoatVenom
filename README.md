@@ -43,6 +43,13 @@ Working across the full threat lifecycle — from intelligence collection to com
 `Python` `Random Forest` `scikit-learn` `Flask` `pandas` `Discord Webhooks`
 
 [View Full Details & Lessons Learned](https://goatvenom.github.io/GoatVenom/projects#dark-web-intelligence-platform)
+
+---
+### incident-intelligence-decision-support-playbook
+> Executive decision support playbook demonstrating intelligence-led incident response, cyber risk assessment, and stakeholder communication.
+
+[View Repository](https://github.com/GoatVenom/incident-intelligence-decision-support-playbook)
+
 ---
 
 ### ShadowSentinel -  Red Team / Adversary Simulation Tool
